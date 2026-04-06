@@ -4,7 +4,7 @@ End-to-end retail analytics pipeline using SQL, Python, and machine learning for
 
 ---
 
-## Overview
+## 📌 Overview
 
 This project simulates a real-world retail data environment by integrating multiple datasets, building a complete ETL pipeline, performing SQL-based analysis, and generating business insights through data visualization and machine learning.
 
@@ -12,7 +12,7 @@ The pipeline processes raw retail transaction and order data into clean, analysi
 
 ---
 
-## Objectives
+## 🎯 Objectives
 
 - Build a **data pipeline (ETL)** for retail datasets  
 - Perform **data cleaning and transformation** using Python  
@@ -24,7 +24,7 @@ The pipeline processes raw retail transaction and order data into clean, analysi
 
 ---
 
-## Project Architecture
+## 🧱 Project Architecture
 Raw Data → ETL Pipeline → Cleaned Data → SQL Database → Analysis → ML Model → Dashboard
 
 ---
@@ -51,7 +51,7 @@ Retail-Analytics-Pipeline/
 
 ---
 
-## Tech Stack
+## ⚙️ Tech Stack
 
 - **Python**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
 - **SQL**: SQLite (extendable to PostgreSQL / SQL Server)  
@@ -62,7 +62,7 @@ Retail-Analytics-Pipeline/
 
 ---
 
-## Datasets Used
+## 📊 Datasets Used
 
 ### 1. Retail Store Sales Dataset
 - Transaction-level data  
@@ -75,7 +75,7 @@ Retail-Analytics-Pipeline/
 
 ---
 
-## ETL Pipeline
+## 🔄 ETL Pipeline
 
 The ETL pipeline:
 - Loads raw CSV data  
